@@ -1,9 +1,5 @@
 # GuildWarsBot
 
-### Install packages:
-```
-npm install discord.js chokidar puppeteer
-```
 ### Clone project:
 ```
 git clone https://github.com/BeastHub/GuildWarsBot.git
@@ -11,9 +7,13 @@ git clone https://github.com/BeastHub/GuildWarsBot.git
 ### Init project:
 ```
 cd GuildWarsBot
-npm init
+npm init (enter to all and write 'yes' at the end)
 ```
-### Change auth.json:
+### Install packages:
+```
+npm install discord.js chokidar puppeteer
+```
+### Add auth.json:
 ```
 {
     "token": "Your Bot's token here"
