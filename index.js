@@ -12,7 +12,8 @@ client.on('ready', () => {
 
 var prefix = "."
 var raportFileName = "";
-var dirPath = 'F:\\Pobrane z neta\\test';
+// Change this path to directory that bot will be scann for new files
+var dirPath = 'Your\\Path\\Here';
 var downloadUrl = ''
 client.on('message', (message) => {
     // Prevent bot from responding to its own messages
