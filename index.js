@@ -31,7 +31,6 @@ require('node-dir').files(dirPath, function(err, files) {
             // help
             if(message.content.startsWith("help")){
                 message.channel.send("Available commands:\n" + prefix + "help\n" + prefix + "set 'prefix'\n"+ prefix + "start\n");
-                message.channel.send('${message.author.user} test');
             }
             // change prefix
             if(message.content.startsWith("set ")){
