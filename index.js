@@ -3,8 +3,6 @@ const Discord = require('discord.js')
 const client = new Discord.Client()
 const chokidar = require('chokidar');
 const puppeteer = require('puppeteer');
-const fs = require('fs');
-var pathTest = require('path');
 
 client.login(auth.token)
 
