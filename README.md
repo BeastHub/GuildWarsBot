@@ -19,7 +19,7 @@ npm init
     "token": "Your Bot's token here"
 }
 ```
-### Change scanning folder in index.json (line 16):
+### Change scanning folder in index.js (line 16):
 ```
 var dirPath = 'Your\\Path\\Here';
 ```
