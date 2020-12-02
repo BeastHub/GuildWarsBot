@@ -1,5 +1,7 @@
 # GuildWarsBot
 
+Bot is scanning folder and subfolders for new created and changed files. After it gets the path to file it uploads it to https://dps.report/ and then it returns generated link to raport.
+
 ### Clone project:
 ```
 git clone https://github.com/BeastHub/GuildWarsBot.git
