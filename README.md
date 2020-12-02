@@ -30,7 +30,7 @@ node index.js
 ### Commands on discord:
 ```
 .help - prints all possible commands
-.prefix '/' - change prefix to /
+.set '/' - change prefix to /
 .start - starts scanning directory
 .print - prints path of added file in scanned directory (or '' if nothing was added)
 .raport - generate raport with new added file (returns link to raport)
