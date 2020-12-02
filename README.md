@@ -33,24 +33,11 @@ node index.js
 ```
 .help - prints all possible commands
 .set '/' - change prefix to /
-.start - starts scanning directory
-.print - prints path of added file in scanned directory (or '' if nothing was added)
-.raport - generate raport with new added file (returns link to raport)
+.start - starts scanning directory and generate raport when new file is added
 ```
 ### Test if works:
 
 ```
 .start
 ```
-Add new file to the directory that bot is scanning and check if bot updated file:
-
-```
-.print
-```
-
-Generate raport:
-```
-.raport
-```
-
 
