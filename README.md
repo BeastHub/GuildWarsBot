@@ -25,9 +25,9 @@ var dirPath = 'Your\\Path\\Here';
 ```
 ### Run project:
 ```
-node index.json
+node index.js
 ```
-### Commands:
+### Commands on discord:
 ```
 .help - prints all possible commands
 .prefix '/' - change prefix to /
