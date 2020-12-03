@@ -36,8 +36,7 @@ node index.js
 .start - starts scanning directory and generate raport when new file is added
 ```
 ### Test if works:
-
-```
-.start
-```
-
+On channel bot sent message:
+Listening...
+Add file to directory and wait for generated link
+Generated raport: link
